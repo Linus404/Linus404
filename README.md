@@ -4,11 +4,11 @@
 I am a dedicated student with a strong interest in FinTech and Quantitative Analysis. I am passionate about leveraging technology to solve problems and automate tasks. 
 
 ## Skills and Interests
-- 🎓 **Education:** Recently graduated
-- 💼 **Interest Areas:** FinTech, Quantitative Analysis, AI.
+- 🎓 **Education:** Studying computer science in Berlin
+- 💼 **Interest Areas:** FinTech, Quantitative Trading, AI.
 - 💻 **Programming Languages:** 
   - **Main Language:** Python
-  - **Exploring:** Bend
+  - **Exploring:** Bend, Rust
 
 ## Featured Project
 One of my notable projects is [TwiTok](https://github.com/Linus404/TwiTok). This project is a tool to automatically download the most viewed twitch clips and send them via telegram, written only in **Python**.
