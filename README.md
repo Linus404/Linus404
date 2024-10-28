@@ -7,8 +7,8 @@ I am a dedicated student with a strong interest in FinTech and Quantitative Anal
 - 🎓 **Education:** Studying computer science in Berlin
 - 💼 **Interest Areas:** FinTech, Quantitative Trading, AI.
 - 💻 **Programming Languages:** 
-  - **Main Language:** Python, C++
-  - **Exploring:** Bend
+  - **Main Language:** Python, C/C++
+  - **Exploring:** MATLAB
 
 ## Featured Project
 One of my notable projects is [TwiTok](https://github.com/Linus404/TwiTok). This project is a tool to automatically download the most viewed twitch clips and send them via telegram, written only in **Python**.
