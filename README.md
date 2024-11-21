@@ -7,7 +7,7 @@ I am a dedicated student with a strong interest in Quantitative Finance and Mach
 - 🎓 **Education:** Currently doing my bachelor in computer science in Berlin
 - 💼 **Interest Areas:** FinTech, Quantitative Finance, AI/ML.
 - 👨‍💻 **Further Knowledge**:  
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,neovim,git,c,cpp,py,matlab,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,neovim,git,c,cpp,py,matlab,latex)](https://skillicons.dev)
 
 ## Featured Project
 One of my notable projects is [TwiTok](https://github.com/Linus404/TwiTok). This project is a tool to automatically download the most viewed twitch clips and send them via telegram, written only in **Python**.
