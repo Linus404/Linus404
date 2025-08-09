@@ -1,13 +1,13 @@
 # Hi there, I'm Linus 👋
 
 ## About Me
-I am a dedicated student with a strong interest in Quantitative Finance and Machine Learning. I am passionate about leveraging technology to solve problems and automate tasks.  
+I love Quant Finance, Machine Learnin and to automate tasks.  
 
 ## Skills and Interests
 - 🎓 **Education:** Currently doing my bachelor in computer science in Berlin
 - 💼 **Interest Areas:** FinTech, Quantitative Finance, AI/ML.
 - 👨‍💻 **Further Knowledge**:  
-[![My Skills](https://skillicons.dev/icons?i=linux,neovim,git,c,py,latex,vscodium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,c,py,java,sql,latex,vscodium)](https://skillicons.dev)
 
 ## Featured Project
 One of my notable projects is [TwiTok](https://github.com/Linus404/TwiTok). This project is a tool to automatically download the most viewed twitch clips and send them via telegram, written only in **Python**.
